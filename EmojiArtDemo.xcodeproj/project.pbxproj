@@ -15,6 +15,7 @@
 		BE19ECDC26C8A27200B4B55F /* EmojiArtModelBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE19ECDB26C8A27200B4B55F /* EmojiArtModelBackground.swift */; };
 		BE19ECDE26C8A3F400B4B55F /* EmojiArtDocument.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE19ECDD26C8A3F400B4B55F /* EmojiArtDocument.swift */; };
 		BE19ECE026C8A6B900B4B55F /* UtilityExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE19ECDF26C8A6B900B4B55F /* UtilityExtensions.swift */; };
+		BE36205026CCF41C006B1182 /* UtilityViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE36204F26CCF41C006B1182 /* UtilityViews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		BE19ECDB26C8A27200B4B55F /* EmojiArtModelBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiArtModelBackground.swift; sourceTree = "<group>"; };
 		BE19ECDD26C8A3F400B4B55F /* EmojiArtDocument.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiArtDocument.swift; sourceTree = "<group>"; };
 		BE19ECDF26C8A6B900B4B55F /* UtilityExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UtilityExtensions.swift; sourceTree = "<group>"; };
+		BE36204F26CCF41C006B1182 /* UtilityViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UtilityViews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				BE19ECCC26C8979B00B4B55F /* EmojiArtDocumentView.swift */,
 				BE19ECD926C897C200B4B55F /* EmojiArtModel.swift */,
 				BE19ECDD26C8A3F400B4B55F /* EmojiArtDocument.swift */,
+				BE36204F26CCF41C006B1182 /* UtilityViews.swift */,
 				BE19ECDF26C8A6B900B4B55F /* UtilityExtensions.swift */,
 				BE19ECDB26C8A27200B4B55F /* EmojiArtModelBackground.swift */,
 				BE19ECCE26C8979D00B4B55F /* Assets.xcassets */,
@@ -150,6 +153,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BE36205026CCF41C006B1182 /* UtilityViews.swift in Sources */,
 				BE19ECDC26C8A27200B4B55F /* EmojiArtModelBackground.swift in Sources */,
 				BE19ECCD26C8979B00B4B55F /* EmojiArtDocumentView.swift in Sources */,
 				BE19ECE026C8A6B900B4B55F /* UtilityExtensions.swift in Sources */,
